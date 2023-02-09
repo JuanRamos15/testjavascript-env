@@ -1,3 +1,6 @@
+//Modo estricto
+/*
+
 "use strict";
 let user ="Usnavi";
 console.log(user);
@@ -6,3 +9,19 @@ console.log(user);
 
 let nombre = "juan";
 console.log(`${nombre}`);
+
+*/
+
+//infinito
+
+/*
+let n1 = 1;
+let n2 =0 ;
+console.log(1/0);
+*/
+
+//NaN
+/*
+console.log("Hola"/0);
+*/
+
